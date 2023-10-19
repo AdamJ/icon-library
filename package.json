@@ -1,0 +1,17 @@
+{
+  "name": "icon-library",
+  "title": "Icon Library by Adam J. Jolicoeur",
+  "version": "0.0.0",
+  "author": "Adam J. Jolicoeur",
+  "homepage": "https://www.adamjolicoeur.com/icon-library",
+  "license": "Apache-2.0",
+  "licenseUrl": "https://github.com/AdamJ/icon-library/blob/main/LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamJ/icon-library.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/AdamJ/icon-library/issues"
+  }
+}

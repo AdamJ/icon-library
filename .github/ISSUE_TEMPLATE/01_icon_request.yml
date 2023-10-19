@@ -1,0 +1,32 @@
+name: Icon request
+description: Suggest an icon to be included as part of this library.
+labels: ["new icon"]
+title: "Icon request: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for requesting a new icon!
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Use case
+      description: Describe how this icon might be used.
+  - type: textarea
+    id: example
+    attributes:
+      label: Example image
+      description: Insert an example image. A good example is a single color image which plays well at small sizes (16px).
+  - type: checkboxes
+    id: icon-request-checklist
+    attributes:
+      label: Icon request checklist
+      options:
+        - label: 'The issue title begins with "Icon request: " and is followed by the requested icon name'
+          required: true
+        - label: 'This is a single icon or is part of a matching pair (i.e.: `open` / `close`)'
+          required: true
+        - label: 'I have [looked for existing requests](https://github.com/AdamJ/icon-library/issues) and, to the best of my knowledge, this is not duplicating any existing requests'
+          required: true
+        - label: 'I understand that all requests may not be acted upon and that, if necessary, it may be necessary to submit a PR myself'
+          required: true
