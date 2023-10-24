@@ -3,9 +3,9 @@
 # Icon library
 A library of icons made in Figma, shared on the Figma Community, and exported here as SVGs and PNGs.
 
-![folder icon](/icons/svg/folder.svg) [SVG icons](https://github.com/AdamJ/icon-library/icons/svg/)
+![folder icon](/icons/svg/folder.svg) [SVG icons](https://github.com/AdamJ/icon-library/tree/main/icons/svg)
 
-![folder icon](/icons/svg/folder.svg) [PNG icons](https://github.com/AdamJ/icon-library/icons/png/)
+![folder icon](/icons/svg/folder.svg) [PNG icons](https://github.com/AdamJ/icon-library/tree/main/icons/png)
 
 **Figma Community page**
 
